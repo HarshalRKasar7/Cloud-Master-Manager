@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: cloud-master-manager
+Version: 0.1.0
+Summary: Cloud Master Manager (cmm): A CLI to manage AWS resources, costs, usage, and CloudFormation deployments
+Author: Cloud Master Manager
+License: MIT
+Project-URL: Homepage, https://example.com/cloud-master-manager
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: boto3>=1.28
+Requires-Dist: botocore>=1.31
+Requires-Dist: click>=8.1
+Requires-Dist: rich>=13.7
+Requires-Dist: PyYAML>=6.0
+
+Cloud Master Manager (cmm): CLI for AWS resources, billing, usage, and CloudFormation.

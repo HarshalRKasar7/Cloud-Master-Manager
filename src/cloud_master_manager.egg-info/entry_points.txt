@@ -1,0 +1,2 @@
+[console_scripts]
+cmm = cloud_master_manager.cli:cli

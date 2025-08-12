@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/cloud_master_manager/__init__.py
+src/cloud_master_manager/aws.py
+src/cloud_master_manager/cli.py
+src/cloud_master_manager/render.py
+src/cloud_master_manager.egg-info/PKG-INFO
+src/cloud_master_manager.egg-info/SOURCES.txt
+src/cloud_master_manager.egg-info/dependency_links.txt
+src/cloud_master_manager.egg-info/entry_points.txt
+src/cloud_master_manager.egg-info/requires.txt
+src/cloud_master_manager.egg-info/top_level.txt
